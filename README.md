@@ -22,7 +22,7 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 
 ## Plans for future updates
 - Accept other identifiers, like class (or possibly mimic CSS selectors)
-- Improved U/I
+- Improved I/O
   - currently relies on browser prompts
   - Use Node.JS to run server side
   - Accept inputs from other programs/terminal
