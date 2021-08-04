@@ -9,7 +9,7 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 1. Run the code in the browser console
 2. Wait for prompt and enter URL
 3. Wait for prompt and enter the Element ID's separated by comma
-4. The value of that element will be printed to the page
+4. The value of those elements will be printed to the page
 
 ## What Javascript methods are used?
 [DomParser.parseFromString()](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser/parseFromString)
@@ -18,7 +18,7 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 
 [Document.write()](https://developer.mozilla.org/en-US/docs/Web/API/Document/write)
 
-
+[fetch()](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
 ## Plans for future updates
 - Accept other identifiers, like class (or possibly mimic CSS selectors)
