@@ -29,4 +29,5 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 
 ## References
 https://developer.mozilla.org/en-US/docs/Glossary/IIFE
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
