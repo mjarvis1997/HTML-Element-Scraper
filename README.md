@@ -1,5 +1,6 @@
 # HTML-Element-Scraper
 Asynchronous Javascript Function
+
 Currently browser-based (doesn't work locally/server-side)
 
 ## What does it do?
