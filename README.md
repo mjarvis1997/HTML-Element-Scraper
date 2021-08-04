@@ -11,6 +11,15 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 3. Wait for prompt and enter the Element ID's separated by comma
 4. The value of those elements will be printed to the page
 
+
+
+## Plans for future updates
+- Accept other identifiers, like class (or possibly mimic CSS selectors)
+- Improved I/O
+  - currently relies on browser prompts
+  - Use Node.JS to run server side
+  - Accept inputs from other programs/terminal
+
 ## What Javascript methods are used?
 [DomParser.parseFromString()](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser/parseFromString)
 
@@ -19,13 +28,6 @@ Fetches page contents from a URL, then uses DOM operations to retrieve the value
 [Document.write()](https://developer.mozilla.org/en-US/docs/Web/API/Document/write)
 
 [fetch()](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-
-## Plans for future updates
-- Accept other identifiers, like class (or possibly mimic CSS selectors)
-- Improved I/O
-  - currently relies on browser prompts
-  - Use Node.JS to run server side
-  - Accept inputs from other programs/terminal
 
 ## References
 https://developer.mozilla.org/en-US/docs/Glossary/IIFE
