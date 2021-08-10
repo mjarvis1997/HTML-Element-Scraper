@@ -1,4 +1,4 @@
-# HTML-Element-Scraper
+# html-element-scraper
 Asynchronous Javascript Function
 
 Currently browser-based (doesn't work locally/server-side)
